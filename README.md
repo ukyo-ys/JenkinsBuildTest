@@ -1,0 +1,2 @@
+# JenkinsBuildTest1
+JenkinsによるGitリポジトリ上のXcodeプロジェクトのビルドテスト
