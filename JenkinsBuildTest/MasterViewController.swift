@@ -17,7 +17,7 @@ class MasterViewController: UITableViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
-        title = "画面タイトル"
+        title = "変更１"
         
         navigationItem.leftBarButtonItem = editButtonItem
 
